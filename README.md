@@ -50,13 +50,4 @@ Source code ini cocok digunakan oleh:
 - Institusi pendidikan
 - Pihak yang membutuhkan sistem klasifikasi citra berbasis CNN
 
----
 
-## Lisensi dan Penggunaan
-Source code ini disediakan untuk penggunaan **komersial dan non-komersial** sesuai dengan kesepakatan penjualan.  
-Distribusi ulang tanpa izin tidak diperkenankan.
-
----
-
-## Kontak
-Untuk informasi lebih lanjut, demo, atau kerja sama pengembangan, silakan hubungi pemilik source code.
